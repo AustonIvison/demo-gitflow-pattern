@@ -1,4 +1,4 @@
-# Gitflow Pattern Demo (v1.0.0)
+# Gitflow Pattern Demo (v1.0.1)
 
 This repository demonstrates the **Gitflow** branching strategy.
 
